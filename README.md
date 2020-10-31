@@ -4,12 +4,12 @@ Perintah :
 $pkg update &amp;&amp; pkg upgrade  
 $pkg install python2  
 $pkg install git  
-$git clone https://github.com/spider-fb/spider-fb  
+$git clone https://github.com/spider-fb/gelas
 $pip2 install mechanize  
 $pip2 install requests  
 $ls  
-$cd  spider-fb 
-$python2 spider-fb.py  
+$cd  gelas 
+$python2 gelas.py  
 Usernam: anak
 
 Pass: binjai
